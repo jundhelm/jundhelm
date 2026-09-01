@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Jundhel 👋
 
-<!--
-**jundhelm/jundhelm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Robotics Specialist and Electronics & Communications Engineering graduate from the Philippines.
 
-Here are some ideas to get you started:
+I enjoy building and working with robots, and electronics. I like learning through hands-on projects, experimenting with new ideas, and solving problems along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I Work With
+Programming: C++, Java, MicroPython, Scratch
+Robotics: Arduino, Raspberry Pi Pico W
+Interests: Robotics, Embedded Systems, Automation, IoT
+What I'm Doing
+
+I'm currently working as a Robotics Specialist at Techfactors Inc., where I build, program, test, and support robotic systems.
+
+I'm also using GitHub to share some of my projects, experiments, and things I'm learning.
+
+Let's Connect
+
+📧 jundhelmayor@gmail.com
+
+📍 Parañaque, Metro Manila, Philippines
+
+Build. Learn. Improve.
